@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Saul Rodriguez
 ==================================================================================================================================
 
-I am a Computer Engineering student at Cal Poly San Luis Obispo and I am passionate about computer architecture, ASIC development, and digital design. I am speccifically interested in hardware accelerators for AI and graphics. I love exploring new architectures and development RTL for open-source projects. I am actively looking for ways to grow and solidify my hardware skills and collaborate with others. 
+I am a Computer Engineering student at Cal Poly San Luis Obispo and I am passionate about digital design, computer architecture, ASIC development, and compiler construction. I am specifically interested in hardware accelerators for AI and graphics. I love exploring new architectures and development RTL for open-source projects. I am actively looking for ways to grow and solidify my hardware skills and collaborate with others. 
 
 * 🌍  I'm based in Los Angeles
 <!-- TODO: Make a personal website -->
