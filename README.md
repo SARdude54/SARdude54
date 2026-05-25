@@ -1,15 +1,19 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Saul Rodriguez
 ==================================================================================================================================
 
-I am a Computer Engineering student at Cal Poly San Luis Obispo and I am passionate about digital design, computer architecture, ASIC development, and compiler construction. I am specifically interested in hardware accelerators for AI and graphics. I love exploring new architectures and development RTL for open-source projects. I am actively looking for ways to grow and solidify my hardware skills and collaborate with others. 
+I am a Computer Engineering student at Cal Poly San Luis Obispo and I am passionate about digital design, computer architecture, ASIC development, FPGA embedded projects, and compiler construction. I am specifically interested in hardware accelerators for AI and graphics. I love exploring new architectures and development RTL for open-source projects. I am actively looking for ways to grow and solidify my hardware skills and collaborate with others. 
 
 * 🌍  I'm based in Los Angeles
 <!-- TODO: Make a personal website -->
 <!-- * 🖥️  See my portfolio at -->
 * ✉️  You can contact me at [saulargz35@gmail.com](saulargz35@gmail.com)
-* 🚀  I'm currently working on my senior project at Cal Poly: [Vortex ASIC](https://github.com/SARdude54/Vortex-ASIC)
-* 🧠  I'm currently learning about hardware verifiction techniques such as UVM and formal verification. 
 * 👥  I'm looking to collaborate on any open-source RTL projects that push me to learn and grow.
+* 🧠  I'm currently working on many hardware and system-level projects: 
+    * Working on my senior project at Cal Poly: [Vortex ASIC](https://github.com/SARdude54/Vortex-ASIC)
+    * Enrolled in a compilers class and learning compiler design and implementation 
+    * Haven gotten a DE10-Lite FPGA and working on a [RISC-V SoC](https://github.com/SARdude54/riscv-fpga-soc)
+    * Indepentently learning more on hardware verifiction techniques such as UVM and formal verification. 
+
 
 ![riscv](https://www.readmecodegen.com/api/social-icon?name=riscv&size=36)
 ![stmicroelectronics](https://www.readmecodegen.com/api/social-icon?name=stmicroelectronics&size=36)
