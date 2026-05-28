@@ -11,7 +11,7 @@ I am a Computer Engineering student at Cal Poly San Luis Obispo and I am passion
 * 🧠  I'm currently working on many hardware and system-level projects: 
     * Working on my senior project at Cal Poly: [Vortex ASIC](https://github.com/SARdude54/Vortex-ASIC)
     * Enrolled in a compilers class and learning compiler design and implementation 
-    * Haven gotten a DE10-Lite FPGA and working on a [RISC-V SoC](https://github.com/SARdude54/riscv-fpga-soc)
+    * Acquired a DE10-Lite FPGA and started working on a [RISC-V SoC](https://github.com/SARdude54/riscv-fpga-soc)
     * Indepentently learning more on hardware verifiction techniques such as UVM and formal verification. 
 
 
